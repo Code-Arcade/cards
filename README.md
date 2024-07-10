@@ -4,7 +4,8 @@ This project demonstrates how to create stunning CSS animation cards using HTML,
 
 ## Demo
 
-[![CSS Animation Cards](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+![card](https://github.com/Code-Arcade/cards/assets/175227564/f9a14525-1fda-4b3a-a9ac-47be707d092d)
+
 
 ## Features
 
